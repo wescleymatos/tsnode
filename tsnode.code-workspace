@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.fontFamily": "Fira Code",
+		"editor.fontSize": 19,
+		"editor.fontLigatures": true,
+		"workbench.colorTheme": "Dracula"
+	}
+}
